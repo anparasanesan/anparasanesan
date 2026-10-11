@@ -11,9 +11,29 @@ Senior Full-Stack Developer in the West Midlands, UK. I build e-commerce, e-lear
 
 ## Client work (code private)
 
-- Airport parking booking platform, live across four German brands: [parkairport.de](https://www.parkairport.de), [ich-parke-selber.de](https://www.ich-parke-selber.de), [parkkoenig.de](https://www.parkkoenig.de), [primus-parken.de](https://primus-parken.de)
-- Six UK e-learning platforms, including [Study365](https://www.study365.co.uk) and [South London College](https://www.southlondoncollege.org)
-- E-commerce and business websites for clients in the UK, US and Sri Lanka, including [MyKings.lk](https://www.mykings.lk) and [KD Hardscape](https://kdhardscape.com)
+**Global Edulink**: learning management systems for UK online course brands (2016–2019). Led a team of 4 building and running:
+
+- [Global Edulink](https://www.globaledulink.co.uk) (main brand)
+- [Study365](https://www.study365.co.uk)
+- [South London College](https://www.southlondoncollege.org)
+- [1Training](https://www.1training.org)
+- [Studyfolk Exams](https://www.studyfolkexams.com)
+
+**Prograva**: airport parking management systems (2019–2021). Built the booking platform, live across four German brands:
+
+- [ich-parke-selber.de](https://www.ich-parke-selber.de), [parkairport.de](https://www.parkairport.de), [parkkoenig.de](https://www.parkkoenig.de), [primus-parken.de](https://primus-parken.de)
+
+**Koceansoft**: custom software and web applications, Sri Lanka (2021–2025). Delivered with my team of 7:
+
+- Custom web applications: a learning management system for AIBT, plus student management and point-of-sale systems (private client systems)
+- E-commerce: [MyKings.lk](https://www.mykings.lk), [The Smiley Gifts](https://thesmileygifts.com)
+- US service businesses: [KD Hardscape](https://kdhardscape.com) (including SEO and digital marketing), [10xTree](https://10xtree.com)
+- Schools: [Jaffna College](https://jaffnacollege.lk), [Periyapulam Maha Vidyalayam](https://www.periyapulammv.com)
+
+**Freelance** (2025–present). Designed and built:
+
+- Restaurants: [Hook and Line Sidcup](https://hookandlinesidcup.co.uk/), [Fish and Chips Sidcup](https://fishandchipsidcup.co.uk/)
+- Education: [My Learning Point](https://mylearningpoint.co.uk/)
 
 ## Publication
 
