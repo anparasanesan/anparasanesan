@@ -13,7 +13,7 @@ Senior Full-Stack Developer in the West Midlands, UK. I build e-commerce, e-lear
 
 **Global Edulink**: learning management systems for UK online course brands (2016–2019). Led a team of 4 building and running:
 
-- [Global Edulink](https://www.globaledulink.co.uk) (main brand)
+- [Global Edulink](https://www.globaledulink.co.uk)  
 - [Study365](https://www.study365.co.uk)
 - [South London College](https://www.southlondoncollege.org)
 - [1Training](https://www.1training.org)
